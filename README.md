@@ -138,4 +138,26 @@ cd LingoLink
 
 ~~~
 
+## 기술 스택
 
+### 개발 언어
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+
+### 프레임워크
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
+### 통합 개발 환경(IDE)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
+### 버전 관리
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+### 클라우드 플랫폼 및 서비스
+[![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+
+### 클라우드 API
+[![Google Cloud Translation API](https://img.shields.io/badge/Google_Cloud_Translation_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/translate)
+[![Google Cloud Speech-to-Text API](https://img.shields.io/badge/Google_Cloud_Speech_to_Text_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/speech-to-text)
+[![Google Cloud Text-to-Speech API](https://img.shields.io/badge/Google_Cloud_Text_to_Speech_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/text-to-speech)

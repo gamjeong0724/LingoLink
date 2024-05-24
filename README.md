@@ -161,3 +161,11 @@ cd LingoLink
 [![Google Cloud Translation API](https://img.shields.io/badge/Google_Cloud_Translation_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/translate)
 [![Google Cloud Speech-to-Text API](https://img.shields.io/badge/Google_Cloud_Speech_to_Text_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/speech-to-text)
 [![Google Cloud Text-to-Speech API](https://img.shields.io/badge/Google_Cloud_Text_to_Speech_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/text-to-speech)
+
+# 🖥️ 화면 구성 <br/>
+
+| 메인 페이지 | 소개 페이지 | 
+|---|---|
+| <img src="https://github.com/gamjeong0724/LingoLink/blob/main/KakaoTalk_20240514_041609878.jpg" width="200" height="200"> | <img src="https://github.com/gamjeong0724/LingoLink/blob/main/KakaoTalk_20240514_041609878.jpg" width="200" height="200"> |
+
+

@@ -88,7 +88,7 @@
 
 1. Mobile apps: developing apps that handle speech recognition, translation, and text speech conversion. flutter
 2. API : uses API for voice recognition, translation, and text voice conversion Google Cloud Translation API, Speech-to-Text API, and Text-to-Speech API
-3. 3. 편집기 : Visual Studio Code, Android Studio
+3. editor : Visual Studio Code, Android Studio
 
 ### Software development phase
 

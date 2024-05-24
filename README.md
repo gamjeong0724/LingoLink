@@ -111,7 +111,31 @@
 2. User feedback: The design and function will be improved by collecting feedback from foreign users
 3. Commercialization: No plan to mass-produce it. It is for a gift for a friend who came from far away
 
-# 시작 가이드<br/>
+# 시작 가이드
 
 ### Requirements
-#### For building and running the application you need: 
+#### For building and running the application you need:
+- beta xx.xx
+- beta xx.xx
+- beta xx.xx<br/>
+
+### Installation<br/>
+
+~~~
+$ git clone https://github.com/gamjeong0724/LingoLink.git<br/>
+cd LingoLink
+~~~
+
+### Backend<br/>
+
+~~~
+
+~~~
+
+### Frontend<br/>
+
+~~~
+
+~~~
+
+

@@ -82,7 +82,7 @@
 4. Hardware assembly: component to PCB and device assembly
 5. Case Design: Use Solidworks software to design cases and print them in 3D
 
-## software development
+## Software development
 
 ### Components Required
 

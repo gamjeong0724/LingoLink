@@ -15,10 +15,10 @@
 > 개발 기간 : 2024.05 ~
 
 
-[이미지링크](https://github.com/account) | [이미지링크](https://github.com/account)
----|---|
+| <img src="https://github.com/gamjeong0724/LingoLink/blob/main/KakaoTalk_20240514_041609878.jpg" width="200" height="200"> | 
+|---|
 | GamJeong |
-| @gamjeong0724 |
+| [@gamjeong0724](https://github.com/gamjeong0724 "gamjeong0724_github") |
 | personal |
 
 # 개발 요구 사항

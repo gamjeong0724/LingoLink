@@ -11,7 +11,15 @@
 # LingoLink 1V0 (personal project)
 
 > 참여 인원 : GamJeong
+> 
 > 개발 기간 : 2024.05 ~
+
+
+[이미지링크](https://github.com/account) | [이미지링크](https://github.com/account)
+---|---|
+| GamJeong |
+| @gamjeong0724 |
+| personal |
 
 # 개발 요구 사항
 

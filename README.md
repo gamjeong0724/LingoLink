@@ -110,3 +110,8 @@
 1. Prototyping: Create and test prototypes for hardware and software integration
 2. User feedback: The design and function will be improved by collecting feedback from foreign users
 3. Commercialization: No plan to mass-produce it. It is for a gift for a friend who came from far away
+
+# 시작 가이드<br/>
+
+### Requirements
+#### For building and running the application you need: 

@@ -158,9 +158,9 @@ cd LingoLink
 [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 ### 클라우드 API
-[![Google Cloud Translation API](https://img.shields.io/badge/Google_Cloud_Translation_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/translate)
-[![Google Cloud Speech-to-Text API](https://img.shields.io/badge/Google_Cloud_Speech_to_Text_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/speech-to-text)
-[![Google Cloud Text-to-Speech API](https://img.shields.io/badge/Google_Cloud_Text_to_Speech_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/text-to-speech)
+[![LibreTranslate API](https://img.shields.io/badge/LibreTranslate-API-blue.svg?style=for-the-badge)](https://libretranslate.com/)
+[![Vosk](https://img.shields.io/badge/Vosk-Speech%20Recognition-green.svg?style=for-the-badge)](https://alphacephei.com/vosk/)
+
 
 # 🖥️ 화면 구성 <br/>
 

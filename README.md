@@ -15,7 +15,7 @@
 > 개발 기간 : 2024.05 ~
 
 
-| <img src="https://github.com/gamjeong0724/LingoLink/blob/main/KakaoTalk_20240514_041609878.jpg" width="200" height="200"> | 
+| <img src="Image/gamjeong.jpeg" width="200" height="200"> | 
 |---|
 | GamJeong |
 | [@gamjeong0724](https://github.com/gamjeong0724 "gamjeong0724_github") |

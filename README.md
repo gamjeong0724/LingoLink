@@ -3,7 +3,7 @@
 # LingoLink
 
 <div align="center">
-  <img src="/통역사.jpg" width="20%"><br/><br/> 
+  <img src="image/통역사.jpg" width="20%"><br/><br/> 
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgamjeong0724%2FLingoLink&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>

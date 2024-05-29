@@ -166,7 +166,7 @@ cd LingoLink
 
 | 메인 페이지 | 소개 페이지 | 
 |---|---|
-| <img src="https://github.com/gamjeong0724/LingoLink/blob/main/KakaoTalk_20240514_041609878.jpg" width="200" height="200"> | <img src="https://github.com/gamjeong0724/LingoLink/blob/main/KakaoTalk_20240514_041609878.jpg" width="200" height="200"> |
+| <img src="Image/gamjeong.jpeg" width="200" height="200"> | <img src="Image/gamjeong.jpeg" width="200" height="200"> |
 
 ## 주요 기능
 -
